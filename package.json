@@ -1,0 +1,21 @@
+{
+  "name": "creating-an-app",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreennPingvin/tetest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GreennPingvin/tetest/issues"
+  },
+  "homepage": "https://github.com/GreennPingvin/tetest#readme"
+}
